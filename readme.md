@@ -5,7 +5,7 @@ The assignment explored key object-oriented programming (OOP) concepts in PHP. T
 
 
 ## Table of Contents
-1. [Abstract Classes](#abstractclasses)
+1. [Abstract Classes](#abstract-classes)
 2. [Features](#features)
 3. [Technologies Used](#technologies-used)
 4. [Setup Instructions](#setup-instructions)
