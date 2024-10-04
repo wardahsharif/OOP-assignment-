@@ -24,7 +24,8 @@ The assignment explored key object-oriented programming (OOP) concepts in PHP. T
  This is useful when multiple classes share common behavior but implement some details differently.
 
 
-![Home Page](src/assets/homepage1.png)
+![Abstract Classes](oop-code/abstract1.png)
+![Abstract Classes](oop-code/abstract2.png)
 
 
 ## Interface
@@ -40,7 +41,7 @@ Interfaces are useful when you want to enforce that a group of classes follow th
 (i.e., have the same methods) but may implement those methods differently.
 
 
-![About Page](src/assets/aboutpage.png)
+![Interface](oop-code/interface.png)
 
 
 ## Iterables
@@ -56,7 +57,7 @@ Useful when you want to define how an object should be traversed
 (e.g., through a collection of items).
 
 
-![Services Page Screenshot](src/assets/service.png)
+![Iterables](oop-code/iterables.png)
 
 
 ## Namespaces
@@ -71,7 +72,7 @@ To avoid naming conflicts when different parts of your project or third-party li
 It helps organize your code by logically grouping related classes.
 
 
-![Contact Page Screenshot](src/assets/contactpage.png)
+![NameSpace](oop-code/namespace.png)
 
 
 ## Static Properties & Methods
@@ -90,7 +91,7 @@ When you want to store information that should be the same across all instances 
 (like a counter or configuration settings).
 When a method should be accessed without creating an instance of the class.
 
-![Footer Screenshot](src/assets/homepage2.png)
+![Static Properties & Methods](oop-code/staticsandproperty.png)
 
 
 ## Traits
@@ -107,4 +108,4 @@ Differences from Classes:
 Traits are not full classes; they cannot be instantiated, 
 and they don’t have a constructor. They're used to add functionality to classes.
 
-![Footer Screenshot](src/assets/homepage2.png)
+![Traits](oop-code/traits.png)

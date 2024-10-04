@@ -1,21 +1,4 @@
 <?php
-/*
- Static Properties and Methods
-
-- Static Properties Are variables that are shared across all instances of a class.
- Instead of each object having its own copy, a static property is shared by all instances of the class.
-
-- Static Methods Are functions that can be called on the class itself, not on an object. 
-You don't need to create an instance of the class to call a static method.
-
-
-When to Use Static
-
-When you want to store information that should be the same across all instances of a class 
-(like a counter or configuration settings).
-When a method should be accessed without creating an instance of the class.
-
- */
 
  class Visitor {
 

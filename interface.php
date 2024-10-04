@@ -1,21 +1,4 @@
 <?php
-/*
-Interface
-
-An interface in PHP is like a blueprint or a contract. 
-It defines the structure that any class must follow if it implements that interface.
-However, unlike a class, an interface doesn’t contain any actual code—just method names.
-It ensures that different classes use the same method signatures, but the classes decide how to implement them.
-
-Why Use Interfaces?
-
-Interfaces are useful when you want to enforce that a group of classes follow the same rules,
-(i.e., have the same methods) but may implement those methods differently.
-
-*/
-
-
-
 
 // Interface that requires a processPayment method
 interface PaymentMethod {

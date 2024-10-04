@@ -1,21 +1,4 @@
 <?php
-/*
-
-Trait 
-
-A trait is a code reuse mechanism in PHP.
-It allows you to share common functionality across multiple classes without using inheritance.
-Unlike interfaces, traits can contain actual code (methods).
-
-why use traits?
-
-Traits are useful when multiple classes need to share the same methods,
-but you don't want to use inheritance.
-
-Differences from Classes: 
-Traits are not full classes; they cannot be instantiated, 
-and they don’t have a constructor. They're used to add functionality to classes.
-*/
 
 
 // A trait that provides a sendNotification method

@@ -1,14 +1,4 @@
 <?php
- /*
- 
- Abstract Classes
-
- Description: An abstract class is like a template for other classes.
- It can't be used on its own, but it defines methods that must be created in any class that extends it.
- This is useful when multiple classes share common behavior but implement some details differently.
-
- 
-*/
 
 
 //this is the template for users
